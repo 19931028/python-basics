@@ -8,11 +8,11 @@
 
 ### list of menu items ###
 
-1. water
-2. Gatorade
-3. Diet Coke
-4. sprite
-5. Monster
+1. water 5
+2. Gatorade 7.5
+3. Diet Coke 6.5
+4. sprite 6.5
+5. Monster 8
 
 #### Prompts the user to insert $$ ####
 
